@@ -1,0 +1,14 @@
+# full_certus-userdebug 10 QP1A.190711.020 mp1V91561 test-keys
+- manufacturer: 
+- platform: mt6765
+- codename: certus
+- flavor: full_certus-userdebug
+- release: 10
+- id: QP1A.190711.020
+- incremental: mp1V91561
+- tags: test-keys
+- fingerprint: xiaomi/cereus/cereus:9/PPR1.180610.011/V11.0.5.0.PCGMIXM:user/release-keys
+- is_ab: false
+- brand: xiaomi
+- branch: full_certus-userdebug-10-QP1A.190711.020-mp1V91561-test-keys
+- repo: xiaomi_certus_dump
